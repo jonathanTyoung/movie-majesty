@@ -7,7 +7,6 @@ export const movies = [
     {
         title: "The Matrix",
         poster: "https://image.tmdb.org/t/p/original/309gy3jIti5UDEPGiisNpRDv6Pa.jpg",
-        poster: "",
         description: "A computer hacker learns the true nature of his reality and his role in the war against the controllers of it."
     },
     {
@@ -24,5 +23,10 @@ export const movies = [
         title: "The Lion King",
         poster: "https://www.movieartarena.com/imgs/lionkingintz.jpg",
         description: "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
+    },
+    {
+        title: "Perfect Days",
+        poster: "https://m.media-amazon.com/images/I/618sm-2oT0L._AC_UF894,1000_QL80_.jpg",
+        description: "A commissioned ficionalized documentary about the public toilets of Tokyo."
     }
  ];
